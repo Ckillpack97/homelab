@@ -1,0 +1,28 @@
+# Secrets and credentials
+*.kdbx
+*.pem
+*.key
+*.env
+private/
+*_private.*
+
+# Raw device exports
+config*.xml
+*.conf
+
+# Captures and logs
+*.pcap
+*.pcapng
+*.log
+
+# Other key and certificate formats
+*.pfx
+*.p12
+*.ovpn
+id_rsa*
+
+# Backups and editor/OS clutter
+*.bak
+.DS_Store
+Thumbs.db
+.vscode/

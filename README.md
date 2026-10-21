@@ -3,7 +3,7 @@ Home network lab with VLANs, OPNsense, and Proxmox, documented like a real sysad
 
 # Home Lab: Segmented Network, Firewall, and Virtualization
 
-A documented home lab built to practice how network and systems administrators plan, build, and record their work. This is a work in progress, started October 2026. Last updated: 10/17/2026.
+A documented home lab built to practice how network and systems administrators plan, build, and record their work. This is a work in progress, started October 2026. Last updated: 10/20/2026.
 
 ## Goals
 
