@@ -36,7 +36,7 @@ A documented home lab built to practice how network and systems administrators p
 | 50 | Pentest | 10.0.50.0/24 | Isolated security lab |
 | 90 | Management | 10.0.90.0/24 | Network and hypervisor management |
 
-VPN clients use a separate tunnel network (10.0.100.0/24), terminated on the firewall.
+VPN clients use a separate tunnel network (10.69.100.0/24), terminated on the firewall.
 
 **Design principles**
 - Default deny between zones, with specific exceptions documented and justified
