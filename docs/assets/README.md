@@ -1,0 +1,1 @@
+Public hardware inventory. Serial numbers and other sensitive details are kept privately

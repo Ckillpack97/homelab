@@ -1,0 +1,1 @@
+One reocrd per change: what, why, risk, rollback, and verification

@@ -1,0 +1,1 @@
+Hardware layout, cabling, and switch port mapping
